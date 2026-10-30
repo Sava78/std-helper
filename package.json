@@ -1,10 +1,11 @@
 {
   "name": "std-helper",
+  "publisher": "Sava78",
   "displayName": "std_helper",
   "description": "The extention that helps with writing \"std::\"",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.142.0"
+    "vscode": "^1.144.0"
   },
   "categories": [
     "Other"
